@@ -1,0 +1,10 @@
+#chartdiv,
+#chart2div,
+#chart3div,
+#chart4div,
+#chart5div{
+    width: 48%;
+    height: 500px;
+    display: inline-block;
+    margin: 10px;
+}
